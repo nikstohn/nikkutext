@@ -1,0 +1,42 @@
+DE,Layout Test
+PN,89901
+SC,0001
+PS,8200
+CT,8,T
+OL,1,F]M@Fasttext Bars                       
+OL,5, Var 1VZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,6,Q]G News  R]DSport  S]D  TV   V]DService
+OL,9, Var 2VZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,10,Q*ANews   R*BSport  S*CTV     V*FService
+OL,13, Var 3VZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,14,Q/ANews   R/BSport  S/CTV     V/FService
+OL,17, Var 4VZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,18,A  News   B  Sport  C   TV    F Service 
+PN,89902
+SC,0002
+PS,8000
+CT,8,T
+OL,1,F]M@Header Template                     
+OL,5, Var 1VZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,6,  XXX   %%#Fnikku.textG%d.%m.%yF%H:%M:%S
+OL,7,VZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PN,89903
+SC,0003
+PS,8000
+CT,8,T
+OL,1,F]M@Hold Graphic Test                   
+OL,5, ]^QRSTUVW                             
+OL,8,Q  +]R  +]P   +\GH @                    
+OL,10,  ^QkRSTUVWD                            
+OL,11,   ^QkRSTUVWD                           
+OL,12,    ^QkRSTUVWD                          
+PN,89904
+SC,0004
+PS,8200
+CT,8,T
+OL,1,F]M@Zeichenvorrat                       
+OL,4, ^^__--------``````        
+OL,5,                    
+OL,6,                    
+OL,7,                    
+OL,8,                             

@@ -1,0 +1,29 @@
+DE,Zeichenvorrat
+PN,19500
+SC,0000
+PS,8200
+CT,10,T
+OL,1, 1 o8NTA         ZEICHENVORRAT          
+OL,2, 2 o8NTG~~~~~~~~~~~~~~~~
+OL,3, 3 o8NTFABCDEFGHIJKLMNOPQRSTUVWXYZ01234
+OL,4, 4 oG1+FABCDEFGHIJKLMNOPQRSTUVWXYZ01234
+OL,5, 5 oG1+Babcdefghijklmnopqrstuvwxyz56789
+OL,6, 6 oG1+Babcdefghijklmnopqrstuvwxyz56789
+OL,7, 7 oG1+C!"#$%&'()*+,-./:;<=>?[^]_~`{\}|@
+OL,8, 8 o8NTC!"#$%&'()*+,-./:;<=>?[^]_~`{\}|@
+OL,9, 9 o8NT ~~~~~~~~~~~~~~~~
+OL,10, 0 o8NTQ                pppppppppppppppp
+OL,11, 1 o8NTQ&)06#$4j  `>+t  yvoi|{k5?at+
+OL,12, 2 oG1+Q(,1=,0-n$x'hl"m wsnbsor1{'x73}2
+OL,13, 3 oG1+Qd8!ep% j(q<.*,t9;g~:/z5w.cqus+f
+OL,14, 4 oG1+Q                ################
+OL,15, 5 oG1+W j############################5 
+OL,16, 6 o8NTW j   D]C  DECODER-TEST    \  W5 
+OL,17, 7 o8NTW j  EFreigabetasteGgedr}ckt? W5 
+OL,18, 8 o8NTW^j ZU#############W######## YW5 
+OL,19, 9 o8NTW j    ] DXTextfreigabeX   \  W5 
+OL,20, 0 oG1+W j^SVRUQTW5 
+OL,21, 1 oG1+W "############################! 
+OL,22, 2 oG1+F   H***I MDoppelte H|heL H***I  
+OL,24, nikkutext.195.01                       
+FL,100,100,100,100,1ff,1ff
