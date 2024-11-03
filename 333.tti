@@ -5,7 +5,7 @@ PS,8000
 CT,20,T
 OL,1,F]M@TTI-Repo Interval Test              
 OL,3,F                                       
-OL,4,F                                       
+OL,4,C       Current Trend:  5 mins          
 OL,5,F                                       
 OL,6,FO     UUPPDDAATTEE::  1144::5008       
 OL,7,F                                       
@@ -16,7 +16,7 @@ OL,11,F
 OL,12,FO                      144::1200       
 OL,13,F                                       
 OL,14,F                                       
-OL,15,F                                       
+OL,15,FO                      144::1226       
 OL,16,F                                       
 OL,17,F                                       
 OL,18,F                                       
