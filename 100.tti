@@ -18,7 +18,7 @@ OL,14,U5FSo 16:00 Uhr
 OL,15,UuGdie nikku.show....................301
 OL,18,T]GInhalt........101  Blog...........200
 OL,19,T]GLivestreams...300  Podcasts.......400
-OL,20,T]GDiscord.......150 Cnikku.visionF]D1/2
+OL,20,T]GDiscord.......150 Cnikku.visionF]D1/3
 OL,22,R]@MGAR NICHT MAL SO GUTW]@>> Seite 410 
 OL,24,A nikku.meB nikku.tvC nikku.fmF Discord 
 FL,200,300,400,150,1ff,1ff
@@ -27,9 +27,9 @@ SC,0002
 PS,8200
 CT,8,T
 OL,1,W    /j5        T `4        x R        
-OL,2,W|xt(|j5x$`<h4h4T n=`||0| |($B]DTOP   
-OL,3,W! jw 1j5jT~} 5juz5"!  B]DFonts 
-OL,4,W  j5o0*uju~T+'`ujws1z#u 0B]D>>450 
+OL,2,W|xt(|j5x$`<h4h4T n=`||0| |($E]@escape
+OL,3,W! jw 1j5jT~} 5juz5"!  E]@      
+OL,4,W  j5o0*uju~T+'`ujws1z#u 0E]@>> 000
 OL,5,W# # #"!"!# # #"!T  # ## # # "!         
 OL,6,VZ upppppppppppppppppppppppppp` 0 0 `  `
 OL,8,V]DNeues auf nikku.me                   
@@ -41,7 +41,30 @@ OL,14,U5FSo 16:00 Uhr
 OL,15,UuGdie nikku.show....................301
 OL,18,T]GInhalt........101  Blog...........200
 OL,19,T]GLivestreams...300  Podcasts.......400
-OL,20,T]GDiscord.......150 Cnikku.visionF]D2/2
+OL,20,T]GDiscord.......150 Cnikku.visionF]D2/3
 OL,22,E]GMNeues von nikku.tv  W]@>> Seite 300 
+OL,24,A nikku.meB nikku.tvC nikku.fmF Discord 
+FL,200,300,400,150,1ff,1ff
+PN,10003
+SC,0003
+PS,8200
+CT,8,T
+OL,1,W    /j5        T `4        x R        
+OL,2,W|xt(|j5x$`<h4h4T n=`||0| |($F]DWas   
+OL,3,W! jw 1j5jT~} 5juz5"!  F]Dsteht 
+OL,4,W  j5o0*uju~T+'`ujws1z#u 0F]Dhier?!
+OL,5,W# # #"!"!# # #"!T  # ## # # "!         
+OL,6,VZ upppppppppppppppppppppppppp` 0 0 `  `
+OL,8,V]DNeues auf nikku.me                   
+OL,9,VuGGar nicht mal so gut..............201
+OL,10,VuGOlympus mju-1: Meine neue Kamera..202
+OL,11,VuGLetter-Weihnachten 2.0............203
+OL,13,U]DBald auf nikku.tv                    
+OL,14,U5FSo 16:00 Uhr                         
+OL,15,UuGdie nikku.show....................301
+OL,18,T]GInhalt........101  Blog...........200
+OL,19,T]GLivestreams...300  Podcasts.......400
+OL,20,T]GDiscord.......150 Cnikku.visionF]D3/3
+OL,22,F]DMnikku.me - Da wei~ man was man hat  
 OL,24,A nikku.meB nikku.tvC nikku.fmF Discord 
 FL,200,300,400,150,1ff,1ff
